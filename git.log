@@ -1,0 +1,40 @@
+commit 86eb24c12dd34eb2de232ca8869e0cbba9c93ea7
+Merge: ccb44d2 7b693da
+Author: Shunta Ohashi <185430250+Shunta-Ohashi@users.noreply.github.com>
+Date:   Mon May 26 14:12:18 2025 +0900
+
+    Merge branch 'main' of https://github.com/Shunta-Ohashi/202505_RL_5
+
+commit ccb44d24d9f2c0c7f5e1cdbc2de27c7068b902cc
+Author: Shunta Ohashi <185430250+Shunta-Ohashi@users.noreply.github.com>
+Date:   Mon May 26 14:09:30 2025 +0900
+
+    ピースの色を変更（ブルー→スカイブルー）
+    
+    blueをskyblueに変更
+
+commit 7b693daefc83d7660eee31b66e5ada3ce2649512
+Author: Shunta-Ohashi <241205034@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:05:57 2025 +0900
+
+    ピースの色を変更（シアン→スカイブルー）
+    
+    cyanからskyblueに変更
+
+commit 17a8487a0ed11f3cd69f42fdd1cc7dc738f1bfee
+Author: Shunta Ohashi <185430250+Shunta-Ohashi@users.noreply.github.com>
+Date:   Mon May 26 14:01:51 2025 +0900
+
+    ピースの落ちる速度を変更
+
+commit 6726e652e79026de72ff308b277bdc57de2ea61a
+Author: Shunta Ohashi <185430250+Shunta-Ohashi@users.noreply.github.com>
+Date:   Mon May 26 13:52:00 2025 +0900
+
+    ミノの色を変更（緑→ライム）
+
+commit cbd123b0b6890b1bb5594cc3493676e88768c626
+Author: Shunta Ohashi <185430250+Shunta-Ohashi@users.noreply.github.com>
+Date:   Mon May 26 13:38:41 2025 +0900
+
+    テトリスのソースコードをインポート
